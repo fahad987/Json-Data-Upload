@@ -1,0 +1,5 @@
+[
+   {"EmpName": "abc","email":"a@gmail.com","salary":3000},
+    {"EmpName": "bcd","email":"b@gmail.com","salary":4000},
+    {"EmpName": "xbc","email":"c@gmail.com","salary":2000}
+]
